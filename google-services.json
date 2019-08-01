@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "825339029354",
+    "firebase_url": "https://easybusiness-b0793.firebaseio.com",
+    "project_id": "easybusiness-b0793",
+    "storage_bucket": "easybusiness-b0793.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825339029354:android:35d74a3a5af2b016",
+        "android_client_info": {
+          "package_name": "app.huldan.easybusiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825339029354-c446ratv4oh1fa25vnqoe8mku3ses8h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATpTFehKSWk89e7utY6GFrb0SxclfGteI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825339029354-c446ratv4oh1fa25vnqoe8mku3ses8h3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
